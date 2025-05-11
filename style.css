@@ -1,0 +1,40 @@
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            background-color: #FE5F50;
+            font-family: sans-serif;
+            box-sizing: border-box;
+
+        }
+
+        .container {
+            border-radius: 2%;
+            text-align: center;
+            background-color: white;
+            width: 600px;
+            height: 300px;
+        }
+
+        #btn {
+            font-size: medium;
+            color: white;
+            background-color: #FE422F;
+            border-radius: 15px;
+            width: 160px;
+            margin-bottom: 10px;
+            left: 45%;
+            top: 60%;
+            position: absolute;
+            cursor: pointer;
+            height: 35px;
+
+        }
+
+        h3 {
+
+            color: #8E8D8E;
+        }
